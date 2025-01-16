@@ -17,3 +17,4 @@ for repeat in list_one:
 print (item)
 
 
+print ('Jose es una ratica')
